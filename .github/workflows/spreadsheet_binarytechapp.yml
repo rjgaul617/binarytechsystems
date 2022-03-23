@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'BinaryTechApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBBBDFB689964312A9B5AF7165830B5B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2868229F23BB46A79D294756CFA9592D }}
           package: .
